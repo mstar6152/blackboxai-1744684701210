@@ -1,0 +1,19 @@
+<!DOCTYPE RCC>
+<RCC version="1.0">
+    <qresource prefix="/">
+        <file>styles/dark.qss</file>
+        <file>icons/sun.png</file>
+        <file>icons/moon.png</file>
+        <file>icons/mars.png</file>
+        <file>icons/mercury.png</file>
+        <file>icons/jupiter.png</file>
+        <file>icons/venus.png</file>
+        <file>icons/saturn.png</file>
+        <file>icons/rahu.png</file>
+        <file>icons/ketu.png</file>
+        <file>icons/chart.png</file>
+        <file>icons/export.png</file>
+        <file>icons/search.png</file>
+        <file>icons/zoom.png</file>
+    </qresource>
+</RCC>
